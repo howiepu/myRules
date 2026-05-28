@@ -1,0 +1,5 @@
+# OpenAI 分流地址
+
+DOMAIN,pay.openai.com
+DOMAIN,auth-cdn.oaistatic.com
+DOMAIN,auth.openai.com
