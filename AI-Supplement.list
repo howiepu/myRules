@@ -1,0 +1,7 @@
+# AI 补充分流
+
+PROCESS-NAME,"/Applications/Antigravity Tools LS.app/","💬 AI 服务"
+PROCESS-NAME,/Applications/Claude.app/,"💬 AI 服务"
+DOMAIN-SUFFIX,gateway.ai.cloudflare.com,"💬 AI 服务"
+PROCESS-NAME,"/Applications/Antigravity Tools.app/","💬 AI 服务"
+PROCESS-NAME,/Applications/Antigravity.app/,"💬 AI 服务"
