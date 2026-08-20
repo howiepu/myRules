@@ -7,4 +7,5 @@ DOMAIN-SUFFIX,suh.cn
 IP-CIDR,10.16.0.0/16,no-resolve
 IP-CIDR,192.168.23.238/32,no-resolve
 IP-CIDR,192.168.50.177/32,no-resolve
+IP-CIDR,192.168.50.11/32,no-resolve
 IP-CIDR,192.168.51.229/32,no-resolve
